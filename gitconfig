@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = huynhcasi@gmail.com
+	name = VanThao Huynh
