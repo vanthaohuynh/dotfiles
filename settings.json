@@ -71,9 +71,6 @@
     },
     "python.pythonPath": "~/.pyenv/shims/python",
     "python.formatting.provider": "yapf",
-    "ruby.useBundler": true,
-    "ruby.useLanguageServer": true,
-    "ruby.format": "rubocop",
     "ruby.lint":
     {
         "rubocop": true
