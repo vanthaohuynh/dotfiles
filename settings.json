@@ -79,5 +79,8 @@
         "rubocop": true
     },
     "ruby.intellisense": "rubyLocate",
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Solarized Light",
+    "security.workspace.trust.untrustedFiles": "open"
 }
